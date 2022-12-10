@@ -21,5 +21,3 @@ const-string v0, "Base64 Code Here"
     move-result-object v2
 
     invoke-virtual {v2}, Landroid/widget/Toast;->show()V
-
-    const/4 v1, 0x5
